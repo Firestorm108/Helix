@@ -1,5 +1,9 @@
 *Temporary BOM to keep track of items
 
 -Motherboard Assembled PCB
--PCB Components Nonassembled (4x1 Pin Header, ...)
+-PCB Components Nonassembled (4x1 Pin Header (3) , 5x1 Pin Header ...)
 -Green LCD w/ I2C Adapter
+-Rotary Encoder
+-Two TMC2209s
+-Two stepper motors
+-1 24v power supply
