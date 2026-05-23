@@ -13,3 +13,15 @@ I decided to base the whole machine off the RP2040 chip, since I don't need any 
 After that I added in the two stepper drivers (both TMC2209s) and the interfacing which is just the LCD and the rotary encoder. I'm not sure what else I would need because it seems a lot of the sensing I need can be done in software using the stepper motors. Motorized tensioning could be cool but it is also something I can do without electronics and I don't want to overcomplicate an already tedious task. I'll probably sleep on it and work on this tomorrow, since it's getting late.<img width="1444" height="973" alt="Screenshot 2026-05-20 at 8 49 31 PM" src="https://github.com/user-attachments/assets/408e9aad-861c-4e89-91c8-b3e1b661dc99" />
 
 Time Spent: 5 Hours
+
+# May 22nd 2026: Motherboard Footprints and Layout
+
+First, I assigned footprints to everything based on LCSC. I really hope everything is correct since if even one part fails then the whole board is down. There's not much more to this, it's just a really mundane and repetitive task.
+<img width="512" height="480" alt="Screenshot 2026-05-22 at 12 57 51 PM" src="https://github.com/user-attachments/assets/7b55b72d-5cf8-4189-8f02-253d1be1bbfe" />
+
+After that I had more fun doing the layout of the board. That took me a while due to the crazy amount of passives, but I think it's a good looking layout and I'm happy with it.
+I also routed the differential pairs of the USB-C since I wanted that to the perfect before I started routing anything else.
+
+<img width="1168" height="1149" alt="Screenshot 2026-05-22 at 10 36 47 PM" src="https://github.com/user-attachments/assets/faeddc18-997c-4dc9-a5be-d821e1a51045" />
+
+Time Spent: 4 Hours
