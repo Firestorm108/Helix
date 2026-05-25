@@ -25,3 +25,16 @@ I also routed the differential pairs of the USB-C since I wanted that to the per
 <img width="1168" height="1149" alt="Screenshot 2026-05-22 at 10 36 47 PM" src="https://github.com/user-attachments/assets/faeddc18-997c-4dc9-a5be-d821e1a51045" />
 
 Time Spent: 4 Hours
+
+# May 25 2026: Finished routing!
+
+I routed all the signal and power traces, following a rather unconventional layer stackup but I'm okay with it. 3 ground layers and one 24V layer, but it is what it is. It was very challenging to route but I'm very happy with the outcome. 
+I'm like 90% certain this board is going to work, since I routed it so meticulously. I'm actually super proud since it looks kinda beautiful.
+
+<img width="612" height="625" alt="Screenshot 2026-05-25 at 12 05 39 AM" src="https://github.com/user-attachments/assets/127b1fc9-6a63-4119-8d86-013d0aa58fe2" />
+
+Here's the 3D image:
+
+<img width="1303" height="1297" alt="Screenshot 2026-05-25 at 12 06 59 AM" src="https://github.com/user-attachments/assets/38bd3250-fdf3-4d60-b3fd-47f85952acec" />
+
+Time Spent: 8 Hours
