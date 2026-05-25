@@ -66,3 +66,8 @@ I'm glad to finally be getting to the CAD. I firstly desgined the outer frame, i
 
 <img width="1144" height="967" alt="Screenshot 2026-05-25 at 10 28 40 AM" src="https://github.com/user-attachments/assets/8469fd93-aa62-4fd9-b174-735f541b0aa1" />
 
+After thinking for a while and literally just staring at the screen until I came up with something that worked, I rearranged the frame a bit to accomdate better. Then, made the mechanism for spinning the coil that is being wound with a stepper motor. I made an adapter that mimics a flyback core so that the bobbin may spin well. Additionally, the mounts I made for the bearing is cool since I added a little Helix. I kinda focused a lot on covering up unnecessary stuff so that it doesn't look like a prototype.
+
+<img width="1350" height="1057" alt="Screenshot 2026-05-25 at 11 46 03 AM" src="https://github.com/user-attachments/assets/2debddd8-1c16-47c9-b65c-186862a25a67" />
+
+
