@@ -26,7 +26,7 @@ I also routed the differential pairs of the USB-C since I wanted that to the per
 
 Time Spent: 4 Hours
 
-# May 25 2026: Finished routing!
+# May 24 2026: Finished routing!
 
 I routed all the signal and power traces, following a rather unconventional layer stackup but I'm okay with it. 3 ground layers and one 24V layer, but it is what it is. It was very challenging to route but I'm very happy with the outcome. 
 I'm like 90% certain this board is going to work, since I routed it so meticulously. I'm actually super proud since it looks kinda beautiful.
@@ -38,3 +38,16 @@ Here's the 3D image:
 <img width="1303" height="1297" alt="Screenshot 2026-05-25 at 12 06 59 AM" src="https://github.com/user-attachments/assets/38bd3250-fdf3-4d60-b3fd-47f85952acec" />
 
 Time Spent: 8 Hours
+
+# May 25 2026: A problem
+
+So after making the PCB, I realized that the microcontroller has no power source when the machine is powered by the 24V power supply. It is only powered when it is being programmed. The good news is that it only needs to be programmed once, so the USB-C port can be used for powering it after.
+However, there is no inbuilt voltage regulator from 24V to 5V, and there is no space to add it in right now. So, my plan is to make a seperate PCB that handles the power.
+
+So 24V flows in via the power supply. This is outputted on the other side into the PCB, however, there is a linear voltage regulator that bumps it down to 5V as well. This 5V goes to a power only USB C receptacle, which can plug into the board.
+
+Here's a rough sketch:
+
+<img width="1789" height="1078" alt="Screenshot 2026-05-25 at 12 58 07 AM" src="https://github.com/user-attachments/assets/3288265b-6e8a-4872-bbbf-0d1a12cacebf" />
+
+
