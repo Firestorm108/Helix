@@ -50,4 +50,9 @@ Here's a rough sketch:
 
 <img width="1789" height="1078" alt="Screenshot 2026-05-25 at 12 58 07 AM" src="https://github.com/user-attachments/assets/3288265b-6e8a-4872-bbbf-0d1a12cacebf" />
 
+First I made the schematic, nothing too complex.
+
+<img width="1315" height="1048" alt="Screenshot 2026-05-25 at 1 14 48 AM" src="https://github.com/user-attachments/assets/29230010-8cdd-4a06-ac3a-0307da251f3e" />
+
+
 
