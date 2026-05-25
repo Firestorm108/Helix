@@ -39,7 +39,7 @@ Here's the 3D image:
 
 Time Spent: 8 Hours
 
-# May 25 2026: A problem
+# May 25 2026 (Midnight): A problem
 
 So after making the PCB, I realized that the microcontroller has no power source when the machine is powered by the 24V power supply. It is only powered when it is being programmed. The good news is that it only needs to be programmed once, so the USB-C port can be used for powering it after.
 However, there is no inbuilt voltage regulator from 24V to 5V, and there is no space to add it in right now. So, my plan is to make a seperate PCB that handles the power.
@@ -60,7 +60,9 @@ Then I just made the PCB and did the footprints
 
 I made sure to do all THT since it would be a huge waste of money to get this assembled. It should be like $2 for the PCB and then a couple cents for the components.
 
+# The Morning
 
+I'm glad to finally be getting to the CAD. I firstly desgined the outer frame, inspired from James Albin. 
 
-
+<img width="1144" height="967" alt="Screenshot 2026-05-25 at 10 28 40 AM" src="https://github.com/user-attachments/assets/8469fd93-aa62-4fd9-b174-735f541b0aa1" />
 
