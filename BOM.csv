@@ -20,7 +20,10 @@ CAD:
 -3 300mm 2020 extrusions
 -8 150mm 2020 extrusions
 -18 corner brackets
-1Usongshine Nema17 Stepper Motor 17HS4023 
-1 5mm to 8mm coupler
+2 Usongshine Nema17 Stepper Motor 17HS4023 
+2 5mm to 8mm coupler
 1 250mm 8mm rod
-1 608 bearing
+ 2 608 bearing
+
+1 250mm t8 leadscrew
+-Jumper Cables
