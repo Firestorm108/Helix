@@ -70,4 +70,12 @@ After thinking for a while and literally just staring at the screen until I came
 
 <img width="1350" height="1057" alt="Screenshot 2026-05-25 at 11 46 03 AM" src="https://github.com/user-attachments/assets/2debddd8-1c16-47c9-b65c-186862a25a67" />
 
+# June 5 2026: Finishing up main mechanics
+
+Today I added in the spooling system, which rotates back and forth on a leadscrew. This movement is constrained with a V wheel plate. So the spool rests on top, with hot swappable spool holders. It then goes through a thumbscrew compression based tensioner which feeds into the coil spinner.
+
+
+<img width="1240" height="1102" alt="Screenshot 2026-06-05 at 8 45 06 PM" src="https://github.com/user-attachments/assets/ad7d925a-78a5-4f01-afbe-55ddcbe66595" />
+
+Time Spent: 4 Hours
 
