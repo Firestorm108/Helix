@@ -1,3 +1,12 @@
+---
+title: "Helix"
+author: "Sidd"
+description: "Coil Winder"
+created_at: "2026-06-07"
+total_time: "32 Hours"
+---
+
+
 # May 19th 2026: Initial CAD
 
 I made the y axis and frame of the machine. The steppers, 750mm leadscrews, pillow bearings, and couplers were all placed. As well as the extrusions and corner brackets. This is for adjustment of pipe size and the movement of the coil throughout the length of the coil. However, I am not currently happy with the design and I also think this will be problematic to bring to open sauce. I think that it would be much better to change this to only making stuff like toroids, gate drive transformers, and especially flyback transformers. Winding entire tesla coil secondaries might not be ideal.
@@ -89,4 +98,3 @@ I made and mounted all the electronics in an emclosure that mounts to the frame.
 <img width="1259" height="1085" alt="Screenshot 2026-06-07 at 1 24 24 AM" src="https://github.com/user-attachments/assets/a827e364-02f5-4bbc-9623-392160d8db4e" />
 
 Time Spent: 2 Hours
-
