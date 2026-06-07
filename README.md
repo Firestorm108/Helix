@@ -21,6 +21,7 @@ It is easily reprogrammable with USB-C. With a small <75mmx75mm footprint, it fi
 
 
 # Helix BOM
+*You can find the spreadsheet version here: https://docs.google.com/spreadsheets/d/1YcLF46WpMoUjMdwvhuiZ--BbrOf5m03kofhXg6CQ6rc/edit?usp=sharing
 
 ## Electronics
 
