@@ -70,6 +70,8 @@ After thinking for a while and literally just staring at the screen until I came
 
 <img width="1350" height="1057" alt="Screenshot 2026-05-25 at 11 46 03 AM" src="https://github.com/user-attachments/assets/2debddd8-1c16-47c9-b65c-186862a25a67" />
 
+Time Spent: 5 Hours
+
 # June 5 2026: Finishing up main mechanics
 
 Today I added in the spooling system, which rotates back and forth on a leadscrew. This movement is constrained with a V wheel plate. So the spool rests on top, with hot swappable spool holders. It then goes through a thumbscrew compression based tensioner which feeds into the coil spinner.
@@ -78,4 +80,13 @@ Today I added in the spooling system, which rotates back and forth on a leadscre
 <img width="1240" height="1102" alt="Screenshot 2026-06-05 at 8 45 06 PM" src="https://github.com/user-attachments/assets/ad7d925a-78a5-4f01-afbe-55ddcbe66595" />
 
 Time Spent: 4 Hours
+
+# June 7 2026: Electronics enclosure + finishing!
+I made and mounted all the electronics in an emclosure that mounts to the frame. I would say that was the most annoying part because it was mundane and tedious but its okay because it's done now. In the morning I'll work on polishing up the repo and making a bom and stuff but im going to sleep
+
+
+
+<img width="1259" height="1085" alt="Screenshot 2026-06-07 at 1 24 24 AM" src="https://github.com/user-attachments/assets/a827e364-02f5-4bbc-9623-392160d8db4e" />
+
+Time Spent: 2 Hours
 
