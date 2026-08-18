@@ -3,7 +3,7 @@ title: "Helix"
 author: "Sidd"
 description: "Coil Winder"
 created_at: "2026-06-07"
-total_time: "32 Hours"
+total_time: "48 Hours"
 ---
 
 
