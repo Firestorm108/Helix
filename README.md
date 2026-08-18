@@ -4,6 +4,8 @@ An automatic coil winding machine for high voltage transformers, electromagnetic
 The device aims to reduce long hours spent hand winding crappy transformers so that prototyping is quick and efficient. The all-in-one control board has integrated stepper drivers and hooks up to the LCD/rotary encoder based control panel. 
 It is easily reprogrammable with USB-C. With a small <75mmx75mm footprint, it fits nicely into the enclosure.
 
+Demo Video: https://youtube.com/shorts/A1r3ZOApkCI?si=vdlbSpJHiryxB_zt
+
 ## Main Features 
 
 - Automatic alignment
