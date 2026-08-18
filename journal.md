@@ -98,3 +98,53 @@ I made and mounted all the electronics in an emclosure that mounts to the frame.
 <img width="1259" height="1085" alt="Screenshot 2026-06-07 at 1 24 24 AM" src="https://github.com/user-attachments/assets/a827e364-02f5-4bbc-9623-392160d8db4e" />
 
 Time Spent: 2 Hours
+
+# June 25 2026
+
+Today I got the board and soldered it together! It looks super cool ngl. I did some testing and coding and it seems to be working!
+
+<img width="3024" height="4032" alt="IMG_6245" src="https://github.com/user-attachments/assets/f7ceb581-3550-4762-b7d9-4e16785e8254" />
+
+Time Spent: 4 Hours
+
+# June 27 2026
+
+I 3D printed some parts and assembled the frame out of extrusions. I unfortunately had to rebuild it since I forgot to put the V-wheel plate on.
+<img width="3024" height="4032" alt="IMG_6247" src="https://github.com/user-attachments/assets/bce6ee80-e30c-496e-8168-f682213732fb" />
+
+Time Spent: 4 Hours
+
+# June 28 2026
+
+I added the steppers, leadscrews, and more printed parts. It's starting to come together and look rlly cool.
+<img width="3024" height="4032" alt="IMG_6251 2" src="https://github.com/user-attachments/assets/36650157-b36b-4994-91bb-13bb5f178e1e" />
+
+Time Spent: 3 Hours
+
+# June 29 2026
+
+I printed and build and coded the electronics box, but had to replace my board with one of my old CNC boards since mine was tweaking out when it controlled the steppers and made everything vibrate like crazy and I wanted it to be reliable for open sauce.
+<img width="3024" height="4032" alt="  " src="https://github.com/user-attachments/assets/63524d03-1694-4172-a20b-edecb1c89f12" />
+
+Time Spent: 5 Hours
+
+# June 30 2025
+
+I finished the build! It works and winds coils. I also added a foam based tensioner which wasn't there originally. 
+
+<img width="3024" height="4032" alt="IMG_6257" src="https://github.com/user-attachments/assets/acb5e715-11e8-4305-8639-1c173789f0ac" />
+
+Time Spent: 4 Hours
+
+
+
+
+
+
+
+
+
+
+
+
+
