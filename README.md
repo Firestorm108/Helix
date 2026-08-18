@@ -16,6 +16,8 @@ It is easily reprogrammable with USB-C. With a small <75mmx75mm footprint, it fi
 
 
 # Pictures
+<img width="3024" height="4032" alt="IMG_6257" src="https://github.com/user-attachments/assets/9d8d8e35-2550-4803-a725-0be19a8764cd" />
+
 <img width="753" height="598" alt="Screenshot 2026-06-07 at 9 40 56 AM" src="https://github.com/user-attachments/assets/9f01b04a-d27b-49b6-bac1-96963a41846c" />
 <img width="1326" height="1307" alt="Screenshot 2026-06-07 at 9 41 41 AM" src="https://github.com/user-attachments/assets/3f6f79e5-4971-4fa7-9088-c4483005cb4e" />
 
